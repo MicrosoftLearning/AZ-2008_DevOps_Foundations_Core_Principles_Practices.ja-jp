@@ -229,6 +229,7 @@ lab:
     RESOURCE-GROUP: rg-eshoponweb-eastus
    ```
 
+1. **[編集]** ペインで、9 行目の `location` 変数を、自分の場所に最も近いリージョンに置き換えます。 
 1. **[編集]** ペインで、11 行めの `eshoponweb-webapp-NAME` プレースホルダーを、この演習で前に生成した Azure App Service Web アプリの **2 番めの**名前に置き換えます。
 1. **[.github/workflows/eshoponweb-cicd.yml]** ペインで、**[変更点のコミット]** を選び、もう一度 **[変更のコミット]** を選びます。
 1. フォークされた **eShopOnWeb** GitHub リポジトリ ページが表示されている Web ブラウザー ウィンドウで、**[アクション]** を選びます。

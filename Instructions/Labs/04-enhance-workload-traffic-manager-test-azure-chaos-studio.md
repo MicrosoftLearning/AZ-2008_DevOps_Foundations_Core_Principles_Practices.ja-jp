@@ -61,7 +61,7 @@ lab:
 ### タスク 1:Traffic Manager プロファイルを実装する
 
 1. Azure portal が表示されている Web ブラウザー タブで、ページ上部の検索テキスト ボックスに「**`Traffic Manager profiles`**」と入力し、結果の一覧で **[Traffic Manager プロファイル]** を選択します。
-1. **[負荷分散 \| Traffic Manager]** ページで、**[+ 作成]** を選びます。
+1. **[負荷分散サービス \| Traffic Manager]** ページで、**[+ 作成]** を選択します。
 1. **[Traffic Manager プロファイルの作成]** ページで、次の操作を実行します。
 
    - **[名前]** テキスト ボックスに "**`devopsfoundationstmprofile`**" と入力します。
@@ -80,7 +80,7 @@ lab:
 
    > **注**: デプロイが完了するまで待ちます。 これは 1 分以内に完了するはずです。
 
-1. **[負荷分散 \| Traffic Manager]** ページで、必要に応じて **[最新の情報に更新]** を選択してから、**[devopsfoundationstmprofile]** を選択します。
+1. **[負荷分散サービス \| Traffic Manager]** ページで、必要に応じて **[最新の情報に更新]** を選択してから、**devopsfoundationstmprofile** を選択します。
 1. **[devopsfoundationstmprofile]** ページの **[要点]** セクションで、**[DNS 名]** 設定の値をコピーして記録しておきます。 これはこのラボ全体で必要になります。
 1. **[devopsfoundationstmprofile]** ページの左ナビゲーション メニューにある **[設定]** セクションで、**[構成]** を選択します。
 1. **[devopsfoundationstmprofile \| 構成]** ページの内容を確認します。 既定では、**[DNS の有効期限 (TTL)]** が **60** 秒に設定されていることに注意してください。 この値を **5** 秒に変更します。
