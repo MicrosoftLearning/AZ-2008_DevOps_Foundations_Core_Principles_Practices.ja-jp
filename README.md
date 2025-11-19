@@ -1,10 +1,7 @@
-#README
+> ⚠️ **注意**  
+> このリポジトリは **2025 年 11 月 14 日**にアーカイブされます。  
+> DevOps ラボの新しいリポジトリは次の場所にあります。[MicrosoftLearning/mslearn-devops](https://github.com/MicrosoftLearning/mslearn-devops)
 
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
 
 # AZ-2008:DevOps の基礎:中心となる原則とプラクティス
 
